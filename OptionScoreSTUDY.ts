@@ -41,7 +41,7 @@ def putcheck = if put then -8 else 0;
 def score = step1 + step2 + step3 + step4 + step5 + step6 + step7 + step8 + putcheck;
 plot plotscore = score;
 
-AddLabel(yes, if put then "PUT" else "CALL", if put then Color.RED else Color.GREEN);
+AddLabel(yes, if put then "PUT" else "CALL", if put then Color.ORANGE else Color.GREEN);
 AddLabel(yes, "Score:" + score, if score >= 6 then if put then Color.RED else Color.GREEN else Color.RED);
 AddLabel(yes, "RSI:" + _rsi, if _rsi <= 40 then Color.GREEN else Color.RED);
 AddLabel(yes, "Vol:" + _vol, if _vol >= 100 then Color.GREEN else Color.RED);
