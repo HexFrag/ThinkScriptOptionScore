@@ -20,3 +20,6 @@ Here are all the checks for B-Score. If they are True, the counter gets increase
     IV<=40
 
     Today gain <= 0
+
+#
+![OptionScoreChart](https://imgur.com/a/em6M5vW)
