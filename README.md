@@ -1,6 +1,6 @@
 # ThinkScriptOptionScore
-Adds a lower chart to ToS charts that scores the option based on a series of checks. These checks where 'made' by u/dj_options from reddit r/algotrading
-Original post can be found here: https://www.reddit.com/r/algotrading/comments/ldkt1z/options_trading_with_automated_ta/
+Adds a lower chart to ToS charts that scores the option based on a series of checks. These checks where 'made' by u/dj_options from reddit r/algotrading,
+original post can be found here: https://www.reddit.com/r/algotrading/comments/ldkt1z/options_trading_with_automated_ta/
 
 #B-Score
 Here are all the checks for B-Score. If they are True, the counter gets increased by 1.
