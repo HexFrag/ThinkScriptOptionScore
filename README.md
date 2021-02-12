@@ -22,4 +22,4 @@ Here are all the checks for B-Score. If they are True, the counter gets increase
     Today gain <= 0
 
 #
-![OptionScoreChart](./optionsscorechart.png)
+![Picture of chart in action](.//HexFrag/ThinkScriptOptionScore/blob/main/optionscorechart.PNG)
