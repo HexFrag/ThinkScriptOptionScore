@@ -6,7 +6,7 @@ The chart plots the score, and displays the all of the checks values in labels, 
 
 # Disclaimer
 Only made for Call options, needs different checks for put options which is maybe something planned.
-Not financial advice or gaurnteed to provide profitable call options, this works better with an API so it can scan hundreds of options vs just displying on a user selected options.
+Not financial advice or guaranteed to provide profitable call options, this works better with an API so it can scan hundreds of options vs just displying on a user selected options.
 
 
 # Scoring
